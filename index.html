@@ -24,6 +24,7 @@
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
       animation: muncul 0.8s ease;
       transition: transform 0.3s ease, box-shadow 0.3s ease;
+      position: relative;
     }
 
     .card:hover {
@@ -157,6 +158,7 @@ body.dark .btn {
 <body>
 
   <div class="card">
+    <button class="toggle" onclick="toggleDark()">🌙</button>
     <img src="foto.jpg" class="foto">
 
     <h1 class="judul">Tedi Supriyanto</h1>
