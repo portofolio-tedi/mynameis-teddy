@@ -1,4 +1,7 @@
 <style>
+body {
+  background: red !important;
+}
     body {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #1f1f1f, #3a3a3a);
