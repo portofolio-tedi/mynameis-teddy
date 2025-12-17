@@ -156,12 +156,11 @@
     /* tombol dark mode */
 .toggle {
   position: absolute;
-  top: 15px;
-  right: 15px;
+  top: 12px;
+  right: 12px;
   background: none;
   border: none;
-  font-size: 18px;
-  cursor: pointer;
+  font-size: 18px;l
 }
 
 /* DARK MODE */
