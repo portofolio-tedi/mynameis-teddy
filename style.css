@@ -85,20 +85,13 @@ body {
       font-size: 14px;
       margin-bottom: 6px;
     }
-
-    .project {
-  background: #f9f9f9;
-  padding: 10px;
-  border-radius: 8px;
-  margin-bottom: 16px;
-
-  animation: fadeIn 0.6s ease;
-    }
 .project {
   background: #f9f9f9;
   padding: 10px;
   border-radius: 8px;
   margin-bottom: 16px;
+  margin-top: 20 px;
+  color: #ffffff;
   animation: fadeIn 0.6s ease;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
