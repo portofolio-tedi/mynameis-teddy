@@ -15,14 +15,14 @@
     }
 
     .card {
-      background: white;
-      width: 320px;
-      padding: 20px;
-      border-radius: 14px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      animation: muncul 0.8s ease;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      position: relative;
+  background: white;
+  max-width: 360px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  position: relative;
     }
 
     .card:hover {
