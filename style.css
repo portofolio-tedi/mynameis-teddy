@@ -1,12 +1,11 @@
 <style>
     body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #74ebd5, #9face6);
+  background: linear-gradient(135deg, #1f1f1f, #3a3a3a);
   margin: 0;
   padding: 20px;
     }
-
-    .card {
+.card {
   background: white;
   max-width: 360px;
   width: 100%;
